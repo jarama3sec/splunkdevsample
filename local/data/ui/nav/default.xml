@@ -1,0 +1,9 @@
+<nav search_view="search">
+  <view name="search"\>
+    <collection label="Utils">
+      <view name="datasets" />
+      <view name="reports" />
+      <view name="alerts" />
+      <view name="dashboards" />
+    </collection>
+</nav>
