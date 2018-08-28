@@ -1,0 +1,4 @@
+## mvc.info
+
+component, modules, templates are located inside:
+$SPLUNK_HOME/share/splunk/search_mrsparkle/.
