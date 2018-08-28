@@ -1,5 +1,6 @@
 <nav search_view="search">
-  <view label="Overview"/>
+  <view label="Overview" name="overview"/>
+  <view label="Info" name="info"/>
   <collection label="Sentiment Analysis">
   </collection>
   <collection label="Setup">
